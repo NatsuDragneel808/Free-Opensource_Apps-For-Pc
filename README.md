@@ -1,11 +1,12 @@
 # free-opensource_apps-for-pc
 
 (Developer_App/Content_Creation)
+- Tikfinity https://tikfinity.zerody.one/
 
-Game:
+(Game)
 - Godot v3.5.3 https://godotengine.org/download/3.x/windows/
 
-Art:
+(Art)
 - Libresprite https://libresprite.github.io/#!/
 - Krita https://krita.org/en/
 - Gimp https://www.gimp.org/downloads/
@@ -14,13 +15,13 @@ Art:
 - Inkscape https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/
 - Paint3D https://apps.microsoft.com/detail/9nblggh5fv99?hl=en-us&gl=US
 
-Design:
+(Design)
 - Canva https://www.canva.com/
 
-Video_Editing:
+(Video_Editing)
 - Clipchamp https://clipchamp.com/en/
 
-Video_Recording:
+(Video_Recording)
 - Powder "Install in the apps section after downloading razor cortex" https://www.razer.com/cortex
 
 (OperatingSystems)
